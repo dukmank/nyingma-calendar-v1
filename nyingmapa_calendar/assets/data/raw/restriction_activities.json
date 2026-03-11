@@ -1,0 +1,112 @@
+[
+  {
+    "Days": "1, 11, 21",
+    "English Name": "Guests",
+    "Restriction": "It is improper to host guests or pursue matters of great importance."
+  },
+  {
+    "Days": "2, 12, 22",
+    "English Name": "Commerce",
+    "Restriction": "It is improper to begin or launch any kind of business enterprise."
+  },
+  {
+    "Days": "3, 13, 23",
+    "English Name": "Children",
+    "Restriction": "It is improper to hold birth celebrations or take a child out of the house for the first time."
+  },
+  {
+    "Days": "4, 14, 24",
+    "English Name": "Warfare",
+    "Restriction": "It is improper to initiate military actions or start legal disputes and lawsuits."
+  },
+  {
+    "Days": "5, 15, 25",
+    "English Name": "Kinship",
+    "Restriction": "It is improper to hold banquets or parties for relatives and kin."
+  },
+  {
+    "Days": "6, 16, 26",
+    "English Name": "Construction",
+    "Restriction": "It is improper to begin building projects, perform renovations, or move to a new home."
+  },
+  {
+    "Days": "7, 17, 27",
+    "English Name": "Brides",
+    "Restriction": "It is improper to send or receive a bride (marriage ceremonies)."
+  },
+  {
+    "Days": "8, 18, 28",
+    "English Name": "Tombs",
+    "Restriction": "It is improper to perform burials or establish tombs."
+  },
+  {
+    "Days": "9, 19, 29",
+    "English Name": "Funerals",
+    "Restriction": "It is improper to conduct virtuous deeds (merit-making) or feasts for the deceased."
+  },
+  {
+    "Days": "10, 20, 30",
+    "English Name": "General",
+    "Restriction": "It is improper to engage in general activities, and especially to hold important consultations or meetings."
+  },
+  {
+    "Days": null,
+    "English Name": null,
+    "Restriction": null
+  },
+  {
+    "Days": "ཚེས་གྲངས།",
+    "English Name": "མིང་བྱང་།",
+    "Restriction": "འཛེམ་བྱ།"
+  },
+  {
+    "Days": "༡། ༡༡། ༢༡།",
+    "English Name": "མགྲོན།",
+    "Restriction": "མགྲོན་བྱེད་དང་གལ་ཆེའི་དོན་གཉེར་མི་རུང་།"
+  },
+  {
+    "Days": "༢། ༡༢། ༢༢།",
+    "English Name": "ཚོང་།",
+    "Restriction": "ཚོང་ལས་འགོ་འཛུགས་རིགས་མི་རུང་།"
+  },
+  {
+    "Days": "༣། ༡༣། ༢༣།",
+    "English Name": "བུ།",
+    "Restriction": "བྱིས་པ་བཙས་སྟོན་དང་ཐོག་མའི་སྒོ་འདོན་མི་རུང་།"
+  },
+  {
+    "Days": "༤། ༡༤། ༢༤།",
+    "English Name": "དམག",
+    "Restriction": "དམག་དང་ཁ་མཆུ་འགོ་འཛུགས་མི་རུང་།"
+  },
+  {
+    "Days": "༥། ༡༥། ༢༥།",
+    "English Name": "གཉེན།",
+    "Restriction": "གཉེན་ཚན་ལ་སྟོན་མོ་བྱ་མི་རུང་།"
+  },
+  {
+    "Days": "༦། ༡༦། ༢༦།",
+    "English Name": "མཁར།",
+    "Restriction": "མཁར་ལས་འགོ་འཛུགས་དང་། ཉམས་གསོ། ཁྱིམ་སྤོ་བཅས་མི་རུང་།"
+  },
+  {
+    "Days": "༧། ༡༧། ༢༧།",
+    "English Name": "བག",
+    "Restriction": "བག་མ་གཏོང་ལེན་མི་རུང་།"
+  },
+  {
+    "Days": "༨། ༡༨། ༢༨།",
+    "English Name": "དུར།",
+    "Restriction": "དུར་བཏབ་མི་རུང་།"
+  },
+  {
+    "Days": "༩། ༡༩། ༢༩།",
+    "English Name": "ཤིད།",
+    "Restriction": "གཤིན་པོའི་ཆེད་དགེ་ལས་དང་སྟོན་མོ་མི་རུང་།"
+  },
+  {
+    "Days": "༡༠། ༢༠། ༣༠།",
+    "English Name": "སྤྱི།",
+    "Restriction": "ལས་དང་བྱ་བ་སྤྱི་དང་ཁྱད་པར་གལ་ཆེའི་མདུན་གྲོས་རིགས་མི་རུང་བ་སོགས་བླང་དོར་གྱི་གནས་རྣམས་ལ་གཟབ་དགོས་པས། ཀུན་གྱིས་དེ་བཞིན་དགོངས་མངའ་འཚལ།"
+  }
+]

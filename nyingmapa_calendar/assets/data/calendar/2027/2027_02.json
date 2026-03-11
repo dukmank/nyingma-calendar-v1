@@ -1,0 +1,1058 @@
+{
+  "schema_version": 2,
+  "year_month": "2027_02",
+  "days": {
+    "2027-02-01": {
+      "date_key": "2027-02-01",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 1,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Monday",
+        "day_name_bo": "ཟླ་བ།",
+        "day_label_bo": "༡"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 25,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༢༥",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": "Dakini Day",
+        "auspicious_day_short_desc_en": "A day connected to wisdom energy and enlightened activity — suitable for mantra recitation and inner practice.",
+        "significance_en": "\"The Day of the Dakini Festival\"                                                                                                                                                                                                                                                                                                                                                                                          Mother of all the victorious ones, Vajrayoginī,\nMother of diversity, Prajñāpāramitā,\nPadma's consort, joyful, passionate and smiling—\nYeshe Tsogyal, homage to you!",
+        "significance_bo": "མཁའ་འགྲོ་དུས་ཆེན་ཉིན། \n\nསྣ་ཚོགས་ཡུམ་གྱུར་ཤེར་ཕྱིན་མ། །\nདགྱེས་ཆགས་བཞད་པ་པདྨའི་ལྕམ། །\nཡེ་ཤེས་མཚོ་རྒྱལ་ལ་ཕྱག་འཚལ། །",
+        "notes": "The Short description is for Auspicious Days tab"
+      },
+      "visual": {
+        "hero_image_key": "dakini",
+        "element_combo_en": "Water-Earth",
+        "element_combo_bo": "ཆུ་ས།",
+        "coincidence_meaning_en": "Youthfulness: Brings lasting peace; good for celebrations.",
+        "coincidence_meaning_bo": "བསིལ་བ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": "མཁའ་འགྲོ་དུས་ཆེན་ཉིན།",
+        "auspicious_extra_label_2": "ཤེས་རབ་ཀྱི་ནུས་པ་དང་འཕྲིན་ལས་བཟང་པོ་དང་འབྲེལ་བ་ཡོད་ཅིང་། སྔགས་བཟླ་བ་དང་ནང་གི་ཉམས་ལེན་བྱེད་པར་ཤིན་ཏུ་འོས་པའི་ཉིན་མོ་ཞིག་ཡིན།",
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "ངན།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "ངན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": "ཉེ་འབྲེལ་འདུ་འཛོམས་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༧:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༢:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༡༡:༠༠"
+      },
+      "event_ids": [
+        "ev_9c1f5a402cc55221"
+      ],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Not Recommended",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Family Gatherings",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "7:00 AM · 2:00 PM · 11:00 PM",
+          "status_key": "700_am_200_pm_1100_pm",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": true,
+        "primary_event_id": "ev_9c1f5a402cc55221",
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    },
+    "2027-02-02": {
+      "date_key": "2027-02-02",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 2,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Tuesday",
+        "day_name_bo": "མིག་དམར།",
+        "day_label_bo": "༢"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 26,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༢༦",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": null,
+        "auspicious_day_short_desc_en": null,
+        "significance_en": "Even if others, in the grips of great desire, should steal, Or encourage others to take away, all the wealth that I possess, To dedicate to them entirely my body, possessions and all my merits From the past, present and future— this is the practice of all the bodhisattvas.",
+        "significance_bo": "སུ་དག་འདོད་ཆེན་དབང་གིས་བདག་གི་ནོར། །ཐམས་ཅད་འཕྲོག་གམ་འཕྲོག་ཏུ་འཇུག་ན་ཡང༌། །ལུས་དང་ལོངས་སྤྱོད་དུས་གསུམ་དགེ་བ་རྣམས། །དེ་ལ་བསྔོ་བ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+        "notes": null
+      },
+      "visual": {
+        "hero_image_key": null,
+        "element_combo_en": "Fire-Earth",
+        "element_combo_bo": "མེ་ས།",
+        "coincidence_meaning_en": "Burning: Generates suffering; brings war and pain.",
+        "coincidence_meaning_bo": "སྲེག་པ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": null,
+        "auspicious_extra_label_2": null,
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "ཤིན་ཏུ་བཟང་།",
+        "popup_inauspicious_label": "ཤིན་ཏུ་ངན།",
+        "popup_restriction_label": "ཁང་པ་རྒྱག་པ་དང་གནས་སྤོར་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༡༡:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༩:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༤:༠༠"
+      },
+      "event_ids": [],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Extremely Auspicious",
+          "status_key": "extremely_auspicious",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Caution",
+          "status_key": "caution",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Construction or Moving",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "11:00 AM · 9:00 PM · 4:00 AM",
+          "status_key": "1100_am_900_pm_400_am",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": false,
+        "primary_event_id": null,
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": true
+      }
+    },
+    "2027-02-03": {
+      "date_key": "2027-02-03",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 3,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Wednesday",
+        "day_name_bo": "ལྷག་པ།",
+        "day_label_bo": "༣"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 27,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༢༧",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": null,
+        "auspicious_day_short_desc_en": null,
+        "significance_en": "Even if others should seek to cut off my head, Though I’ve done them not the slightest wrong, To take upon myself, out of compassion, All the harms they have amassed—this is the practice of all the bodhisattvas.",
+        "significance_bo": "བདག་ལ་ཉེས་པ་ཅུང་ཟད་མེད་བཞིན་དུ། །གང་དག་བདག་གི་མགོ་བོ་གཅོད་བྱེད་ན། །སྙིང་རྗེའི་དབང་གིས་དེ་ཡི་སྡིག་པ་རྣམས། །བདག་ལ་ལེན་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+        "notes": null
+      },
+      "visual": {
+        "hero_image_key": null,
+        "element_combo_en": "Water-Earth",
+        "element_combo_bo": "ཆུ་ས།",
+        "coincidence_meaning_en": "Youthfulness: Brings lasting peace; good for celebrations.",
+        "coincidence_meaning_bo": "བསིལ་བ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": null,
+        "auspicious_extra_label_2": null,
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "ཤིན་ཏུ་བཟང་།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": "གཉེན་སྒྲིག་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༨:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༣:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༧:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༢:༠༠"
+      },
+      "event_ids": [
+        "ev_e279783eef9a1d6a"
+      ],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Extremely Auspicious",
+          "status_key": "extremely_auspicious",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Marriage Ceremonies",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "8:00 AM · 3:00 PM · 7:00 PM · 2:00 AM",
+          "status_key": "800_am_300_pm_700_pm_200_am",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": false,
+        "primary_event_id": null,
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": true
+      }
+    },
+    "2027-02-04": {
+      "date_key": "2027-02-04",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 4,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Thursday",
+        "day_name_bo": "ཕུར་བུ།",
+        "day_label_bo": "༤"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 28,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༢༨",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": null,
+        "auspicious_day_short_desc_en": null,
+        "significance_en": "Even if others should declare before the world All manner of unpleasant things about me, To speak only of their qualities in return, With a mind that’s filled with love—this is the practice of all the bodhisattvas.",
+        "significance_bo": "འགའ་ཞིག་བདག་ལ་མི་སྙན་སྣ་ཚོགས་པ། །སྟོང་གསུམ་ཁྱབ་པར་སྒྲོགས་པར་བྱེད་ན་ཡང། །བྱམས་པའི་སེམས་ཀྱིས་སླར་ཡང་དེ་ཉིད་ཀྱི། །ཡོན་ཏན་བརྗོད་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+        "notes": null
+      },
+      "visual": {
+        "hero_image_key": null,
+        "element_combo_en": "Wind-Water",
+        "element_combo_bo": "རླུང་ཆུ།",
+        "coincidence_meaning_en": "Disharmonious: Splits relations; brings disputes.",
+        "coincidence_meaning_bo": "མི་མཐུན་པ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": null,
+        "auspicious_extra_label_2": null,
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "རྒྱུན་ལྡན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": "ཕུང་པོ་ས་སྦས་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༥:༠༠ / ཉིན་གུང་ཆུ་ཚོད་ ༡༢:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༥:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༡༢:༠༠"
+      },
+      "event_ids": [
+        "ev_c3e2455ef002780d"
+      ],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Neutral",
+          "status_key": "neutral",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Burials",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "5:00 AM · 12:00 PM · 5:00 PM · 12:00 AM",
+          "status_key": "500_am_1200_pm_500_pm_1200_am",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": true,
+        "primary_event_id": "ev_c3e2455ef002780d",
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    },
+    "2027-02-05": {
+      "date_key": "2027-02-05",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 5,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Friday",
+        "day_name_bo": "པ་སངས།",
+        "day_label_bo": "༥"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 29,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༢༩",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": "Dharma Protector Day",
+        "auspicious_day_short_desc_en": "A day to make offerings and prayers to Dharma Protectors for the removal of obstacles and protection of practice.",
+        "significance_en": "Day dedicated to invoking Dharma Protectors like Mahakala and Palden Lhamo to remove obstacles and strengthen protection.",
+        "significance_bo": "\"བོད་ཟླ་རེའི་ཚེས་ ༢༩ ཉིན་ནི་*ཆོས་སྐྱོང་སྲུང་མའི་དུས་ཆེན་ནམ་དུས་བཟང་*གལ་ཆེན་ཞིག་ཡིན། \n༡། གོ་དོན།\nབོད་ཀྱི་ལོ་ཐོའི་ནང་ཟླ་རེའི་ཚེས་ ༢༩ ནི་*ཡི་དམ་དང་ཆོས་སྐྱོང་*རྣམས་ཀྱི་དུས་བཟང་དུ་བརྩི་བ་ཡིན། ལྷག་པར་དུ་ལོ་མཇུག་གི་དགུ་གཏོར་དང་། ཟླ་རེའི་ནང་གི་ནག་པོའི་ཕྱོགས་ཀྱི་མཐའ་མར་ཉེ་བའི་སྐབས་འདིར། དྲག་པོའི་ལས་སྒྲུབ་པ་དང་བར་ཆད་བཟློག་པའི་དུས་ཁྱད་པར་ཅན་ཞིག་ཏུ་ངོས་འཛིན་བྱེད།\n༢། བྱེད་སྒོ།\nཉིན་འདིར་དགོན་སྡེ་ཁག་དང་ཁྱིམ་ཚང་སོ་སོའི་ནང་དུ།\n * གསོལ་ཁ་འབུལ་བ། ཆོས་སྐྱོང་སྲུང་མ་རྣམས་ལ་གཏོར་མ་དང་། གསེར་སྐྱེམས། བསངས་མཆོད་སོགས་རྒྱ་ཆེན་པོ་འབུལ་བ།\n * བསྐང་བཤགས་གཏོང་བ། རང་གི་དམ་ཚིག་ཉམས་ཆག་རྣམས་བཤགས་ཤིང་། སྲུང་མའི་ཐུགས་དམ་བསྐང་བའི་ཆོ་ག་བྱེད་པ།\n༣། ཕན་ཡོན།\nཚེས་ ༢༩ ལ་སྲུང་མ་མཆོད་པའི་ཕན་ཡོན་ནི་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོད་དེ།\n * བར་ཆད་ཞི་བ། ལམ་ལྷོངས་མ་ཡོང་བའི་གེགས་བར་དང་། མི་ཁ་ཁ་མཆུ། གནོད་པ་ཐམས་ཅད་ཞི་བར་བྱེད།\n * དམ་ཚིག་གཙང་མར་བཟོ་བ། བླ་མ་དང་ཆོས་སྐྱོང་དབར་གྱི་འགལ་འཁྲུལ་དང་དམ་ཚིག་ཉམས་པ་རྣམས་སོར་ཆུད་པར་བྱེད།\n * བྱ་བ་ལམ་འགྲོ། ཆོས་བཞིན་སྒྲུབ་པའི་ལས་དོན་ཐམས་ཅད་ལ་ཆོས་སྐྱོང་གིས་མགོན་སྐྱོབ་དང་ཕྱྭ་གཡང་སྩོལ་བར་བྱེད།\n * བསྟན་པ་སྲུང་བ། སྒེར་གྱི་དོན་ཙམ་མ་ཡིན་པར་སངས་རྒྱས་ཀྱི་བསྟན་པ་དང་འཛམ་གླིང་ཞི་བདེ་སྲུང་བའི་ནུས་པ་སྤེལ།\n༤། དམིགས་བསལ་གྱི་དོན་སྙིང་།\nསྲུང་མ་མཆོད་པ་ནི་ལྷ་གསོལ་བ་ཙམ་མ་ཡིན་པར། རང་གི་སེམས་ནང་གི་*དྲག་པོའི་ནུས་པ་*འཕེལ་བར་བྱས་ཏེ། ནང་གི་ཉོན་མོངས་པའི་དགྲ་བཅོམ་པ་དང་། ཕྱིའི་འཇིག་རྟེན་གྱི་བྱ་བ་གང་ཡང་བརྟན་པོར་སྐྱོང་བའི་སྙིང་སྟོབས་བསྐྱེད་པ་ལ་གོ་དགོས།\n> ལམ་སྟོན། ཉིན་འདིར་ཁྱེད་ཀྱིས་རང་གི་ཡི་དམ་མམ་སྲུང་མའི་མ་ཎི་དང་སྙིང་པོ་བཟླས་པ་དང་། གཙང་བྲ་ལ་གཟབ་ནས་གསེར་སྐྱེམས་འབུལ་ན་ཤིན་ཏུ་ལེགས།\"",
+        "notes": "The Short description is for Auspicious Days tab"
+      },
+      "visual": {
+        "hero_image_key": "dharmaprotector",
+        "element_combo_en": "Earth-Water",
+        "element_combo_bo": "ས་ཆུ།",
+        "coincidence_meaning_en": "Youthfulness: Brings lasting peace; good for celebrations.",
+        "coincidence_meaning_bo": "བསིལ་བ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": "ཆོས་སྐྱོང་སྲུང་མའི་དུས་ཆེན།",
+        "auspicious_extra_label_2": "བསྟན་སྲུང་རྣམས་ལ་མཆོད་པ་འབུལ་བ་དང་གསོལ་བ་འདེབས་པའི་ཉིན་མོ་ཞིག་ཡིན་ལ། དེས་བར་ཆད་སེལ་བ་དང་ཉམས་ལེན་ལ་སྲུང་སྐྱོབ་བྱེད་པའི་དགེ་མཚན་ཡོད།",
+        "popup_naga_label": "བཟང་།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "རྒྱུན་ལྡན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": "གཤིན་པོའི་རིམ་གྲོ་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༩:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༤:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༡༠:༠༠"
+      },
+      "event_ids": [
+        "ev_cc09a7dec0467f03",
+        "ev_2610cb8553e62997"
+      ],
+      "astrology": {
+        "naga_day": {
+          "raw": "Auspicious (Minor)",
+          "status_key": "auspicious",
+          "image_key": "naga_minor",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Neutral",
+          "status_key": "neutral",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Funeral Rites or Merit Feasts",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "9:00 AM · 4:00 PM · 10:00 PM",
+          "status_key": "900_am_400_pm_1000_pm",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": true,
+        "primary_event_id": "ev_cc09a7dec0467f03",
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    },
+    "2027-02-06": {
+      "date_key": "2027-02-06",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 6,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Saturday",
+        "day_name_bo": "སྤེན་པ།",
+        "day_label_bo": "༦"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": 12,
+        "day": 30,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༢༽",
+        "day_label_bo": "༣༠",
+        "animal_month_en": "Hare",
+        "animal_month_bo": "ཡོས་ཟླ།",
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": "New Moon",
+        "auspicious_day_short_desc_en": "A day of introspection and renewal, traditionally used for purification practices and restoring commitments.",
+        "significance_en": "\"The Day of the Hundred Sacred Peaceful and Wrathful Deities\"\n\nConfession of Negative Actions (Digpa Shagpa): As it is the final day of the month, it is a day for purifying and confessing the non-virtuous actions committed throughout that month.\nRestoration and Purification (Sojong): It is also the day when the monastic community (Sangha) gathers to perform the \"Sojong\" ritual, a ceremony for restoring vows and purifying transgressions according to the Vinaya (monastic discipline).",
+        "significance_bo": "ཞི་ཁྲོ་དམ་པ་རིགས་བརྒྱ་ཉིན།\n\nསྡིག་པ་བཤགས་པ: ཟླ་བ་གཅིག་གི་ཉིན་མཐའ་མ་ཡིན་པས། ཟླ་བ་དེའི་ནང་གི་མི་དགེ་བའི་ལས་རྣམས་བཤགས་པ་བྱེད་པའི་ཉིན་མོ་ཞིག་ཀྱང་ཡིན།\nགསོ་སྦྱོང་།: དགེ་འདུན་པ་རྣམས་ཀྱིས་ལྷན་ཅིག་ཏུ་འདུལ་བའི་ཆོ་ག་ \"གསོ་སྦྱོང་\" གནང་བའི་ཉིན་མོ་ཡང་ཡིན།",
+        "notes": "The Short description is for Auspicious Days tab"
+      },
+      "visual": {
+        "hero_image_key": "newmoon",
+        "element_combo_en": "Earth-Earth",
+        "element_combo_bo": "ས་ས་།",
+        "coincidence_meaning_en": "Achievement: Fulfils wishes and brings blessings.",
+        "coincidence_meaning_bo": "གྲུབ་པ།"
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": "གནམ་གང་། ཞི་ཁྲོ་དམ་པ་རིགས་བརྒྱ་ཉིན།",
+        "auspicious_extra_label_2": "རང་སེམས་ལ་བརྟག་དཔྱད་དང་ཉམས་གསོ་བྱེད་པའི་ཉིན་མོ་ཞིག་ཡིན་ལ། སྲོལ་རྒྱུན་ལྟར་ན་སྡིག་སྒྲིབ་སྦྱོང་བ་དང་དམ་ཚིག་གསོ་བའི་ཉམས་ལེན་ལ་བེད་སྤྱོད་བྱེད་དོ།།",
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "བྱང་ཤར།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "ངན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": "བྱ་བ་གལ་ཆེན་ལ་འཛེམ།",
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༦:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༡:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༨:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༣:༠༠"
+      },
+      "event_ids": [],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": "Northeast",
+          "status_key": "northeast",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Not Recommended",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": "Avoid Important Activities",
+          "status_key": "avoid",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "auspicious_times": {
+          "raw": "6:00 AM · 1:00 PM · 8:00 PM · 3:00 AM",
+          "status_key": "600_am_100_pm_800_pm_300_am",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": false,
+        "primary_event_id": null,
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    },
+    "2027-02-07": {
+      "date_key": "2027-02-07",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 7,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Sunday",
+        "day_name_bo": "ཉི་མ།",
+        "day_label_bo": "༧"
+      },
+      "tibetan": {
+        "year": 2154,
+        "month": 1,
+        "day": 1,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": "༡༽",
+        "day_label_bo": "༡༽",
+        "animal_month_en": null,
+        "animal_month_bo": null,
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": null,
+        "auspicious_day_short_desc_en": null,
+        "significance_en": "Even if others should expose my hidden faults or deride me When speaking amidst great gatherings of many people, To conceive of them as spiritual friends and to bow Before them in respect—this is the practice of all the bodhisattvas.",
+        "significance_bo": "འགྲོ་མང་འདུས་པའི་དབུས་སུ་འགའ་ཞིག་གིས། །མཚང་ནས་བྲུས་ཤིང་ཚིག་ངན་སྨྲ་ན་ཡང༌། །དེ་ལ་དགེ་བའི་བཤེས་ཀྱིས་འདུ་ཤེས་ཀྱིས། །གུས་པར་འདུད་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+        "notes": null
+      },
+      "visual": {
+        "hero_image_key": null,
+        "element_combo_en": null,
+        "element_combo_bo": null,
+        "coincidence_meaning_en": null,
+        "coincidence_meaning_bo": null
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": null,
+        "auspicious_extra_label_2": null,
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": "ལྷོ་ནུབ།",
+        "popup_empty_vase_label": "ཕྱོགས་མེད་པ།",
+        "popup_hair_label": "རྒྱུན་ལྡན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": null,
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༡༠:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༦:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༡:༠༠"
+      },
+      "event_ids": [
+        "ev_7799786b0b77e243",
+        "ev_c739d7c0190df762"
+      ],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "Chu-Dawa (1st)",
+            "bo": null
+          }
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "Chu-Dawa (1st)",
+            "bo": null
+          }
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "12 days",
+            "bo": null
+          }
+        },
+        "torma_offering": {
+          "raw": "Southwest",
+          "status_key": "southwest",
+          "image_key": "torma",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "Southwest",
+            "bo": null
+          }
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false,
+          "meaning": {
+            "en": "1st Month",
+            "bo": null
+          }
+        },
+        "hair_cutting": {
+          "raw": "Neutral",
+          "status_key": "neutral",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "Day 1: Short life",
+            "bo": null
+          }
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true,
+          "meaning": {
+            "en": "Goddess Palthang",
+            "bo": null
+          }
+        },
+        "daily_restriction": {
+          "raw": null,
+          "status_key": null,
+          "image_key": null,
+          "popup": null,
+          "is_active": false,
+          "meaning": {
+            "en": "Guests",
+            "bo": null
+          }
+        },
+        "auspicious_times": {
+          "raw": "10:00 AM · 6:00 PM · 1:00 AM",
+          "status_key": "1000_am_600_pm_100_am",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": true,
+        "primary_event_id": "ev_7799786b0b77e243",
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    },
+    "2027-02-08": {
+      "date_key": "2027-02-08",
+      "gregorian": {
+        "year": 2027,
+        "month": 2,
+        "day": 8,
+        "month_label_en": "FEB",
+        "month_label_bo": "ཕྱི་ཟླ་གཉིས་པ།",
+        "year_label_bo": "༢༠༢༦",
+        "day_name_en": "Monday",
+        "day_name_bo": "ཟླ་བ།",
+        "day_label_bo": "༨"
+      },
+      "tibetan": {
+        "year": 2153,
+        "month": null,
+        "day": null,
+        "year_label_bo": "༢༡༥༣",
+        "month_label_bo": null,
+        "day_label_bo": null,
+        "animal_month_en": null,
+        "animal_month_bo": null,
+        "lunar_status_en": null,
+        "lunar_status_bo": null
+      },
+      "content": {
+        "auspicious_day_info_en": null,
+        "auspicious_day_short_desc_en": null,
+        "significance_en": "Even if others whom I have cared for like children of my own Should turn upon me and treat me as an enemy, To regard them only with special fondness and affection, As a mother would her ailing child—this is the practice of all the bodhisattvas.",
+        "significance_bo": "བདག་གི་བུ་བཞིན་གཅེས་པར་བསྐྱངས་བའི་མིས། །བདག་ལ་དགྲ་བཞིན་ལྟ་བར་བྱེད་ན་ཡང༌། །ནད་ཀྱིས་བཏབ་པའི་བུ་ལ་མ་བཞིན་དུ། །ལྷག་པར་བརྩེ་བ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+        "notes": null
+      },
+      "visual": {
+        "hero_image_key": null,
+        "element_combo_en": null,
+        "element_combo_bo": null,
+        "coincidence_meaning_en": null,
+        "coincidence_meaning_bo": null
+      },
+      "extra_labels": {
+        "auspicious_extra_label_1": null,
+        "auspicious_extra_label_2": null,
+        "popup_naga_label": "ངན།",
+        "popup_flag_label": "བཟང་།",
+        "popup_fire_label": "ངན།",
+        "popup_torma_label": null,
+        "popup_empty_vase_label": null,
+        "popup_hair_label": "རྒྱུན་ལྡན།",
+        "popup_inauspicious_label": "འབྲེལ་བ་མེད་པ།",
+        "popup_restriction_label": null,
+        "popup_auspicious_time_label": "སྔ་དྲོ་ཆུ་ཚོད་ ༧:༠༠ / ཕྱི་དྲོ་ཆུ་ཚོད་ ༢:༠༠ / མཚན་མོ་ཆུ་ཚོད་ ༡༡:༠༠"
+      },
+      "event_ids": [],
+      "astrology": {
+        "naga_day": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "naga_sleep",
+          "popup": null,
+          "is_active": true
+        },
+        "flag_day": {
+          "raw": "Auspicious",
+          "status_key": "auspicious",
+          "image_key": "earth_lordsflag",
+          "popup": null,
+          "is_active": true
+        },
+        "fire_rituals": {
+          "raw": "Avoid",
+          "status_key": "avoid",
+          "image_key": "fire_deity",
+          "popup": null,
+          "is_active": true
+        },
+        "torma_offering": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "torma",
+          "popup": null,
+          "is_active": false
+        },
+        "empty_vase_bumtong": {
+          "raw": null,
+          "status_key": null,
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": false
+        },
+        "hair_cutting": {
+          "raw": "Neutral",
+          "status_key": "neutral",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "inauspicious_day": {
+          "raw": "Not Applicable",
+          "status_key": "not_applicable",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        },
+        "daily_restriction": {
+          "raw": null,
+          "status_key": null,
+          "image_key": null,
+          "popup": null,
+          "is_active": false
+        },
+        "auspicious_times": {
+          "raw": "7:00 AM · 2:00 PM · 11:00 PM",
+          "status_key": "700_am_200_pm_1100_pm",
+          "image_key": "viewuspdrive_link",
+          "popup": null,
+          "is_active": true
+        }
+      },
+      "flags": {
+        "has_events": false,
+        "primary_event_id": null,
+        "has_astrology": true,
+        "has_restrictions": true,
+        "is_extremely_auspicious": false
+      }
+    }
+  }
+}

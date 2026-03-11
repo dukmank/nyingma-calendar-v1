@@ -1,0 +1,412 @@
+[
+  {
+    "#": 1.0,
+    "Activity": "Naga Day",
+    "Activity (Tibetan)": "༈ ཀླུ་ཐེབས།",
+    "Status/Variation": "Extremely Auspicious (Major)",
+    "Status (Tibetan)": "ཤིན་ཏུ་བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Auspicious (Minor)",
+    "Status (Tibetan)": "བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid",
+    "Status (Tibetan)": "ངན།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": 2.0,
+    "Activity": "Prayer Flags",
+    "Activity (Tibetan)": "༈ ས་བདག་བ་དན།",
+    "Status/Variation": "Auspicious",
+    "Status (Tibetan)": "བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid",
+    "Status (Tibetan)": "ངན།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": 3.0,
+    "Activity": "Hair Cutting/Shaving",
+    "Activity (Tibetan)": "སྐྲ་བཏགས།",
+    "Status/Variation": "Extremely Auspicious",
+    "Status (Tibetan)": "ཤིན་ཏུ་བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Auspicious",
+    "Status (Tibetan)": "བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Neutral",
+    "Status (Tibetan)": "རྒྱུན་ལྡན།",
+    "Symbol": "⚪",
+    "Color": "Light Gray",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Not Recommended",
+    "Status (Tibetan)": "ངན།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": 4.0,
+    "Activity": "Inauspicious Day",
+    "Activity (Tibetan)": "༈ རྟ་ཤི་སྒ་ཆག་གི་རེའུ་མིག །",
+    "Status/Variation": "Caution ",
+    "Status (Tibetan)": "ཤིན་ཏུ་ངན།",
+    "Symbol": "⚠️",
+    "Color": "Yellow",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Not Applicable",
+    "Status (Tibetan)": "འབྲེལ་བ་མེད་པ།",
+    "Symbol": "⚪",
+    "Color": "Light Gray",
+    "Image": "Yes"
+  },
+  {
+    "#": 5.0,
+    "Activity": "Daily Restrictions",
+    "Activity (Tibetan)": "ཉིན་རེའི་འཛེམ་བྱ།",
+    "Status/Variation": "Avoid Hosting Guests",
+    "Status (Tibetan)": "མགྲོན་པོ་བསུ་བར་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Starting Business",
+    "Status (Tibetan)": "ཚོང་ལས་འགོ་འཛུགས་པར་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Birth Celebrations",
+    "Status (Tibetan)": "བཙས་སྟོན་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Legal/Military Action",
+    "Status (Tibetan)": "ཁ་མཆུ་དང་དམག་ལས་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Family Gatherings",
+    "Status (Tibetan)": "ཉེ་འབྲེལ་འདུ་འཛོམས་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Construction/Moving",
+    "Status (Tibetan)": "ཁང་པ་རྒྱག་པ་དང་གནས་སྤོར་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Marriage Ceremonies",
+    "Status (Tibetan)": "གཉེན་སྒྲིག་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Burials",
+    "Status (Tibetan)": "ཕུང་པོ་ས་སྦས་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Funeral Rites",
+    "Status (Tibetan)": "གཤིན་པོའི་རིམ་གྲོ་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid Important Activities",
+    "Status (Tibetan)": "བྱ་བ་གལ་ཆེན་ལ་འཛེམ།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": 6.0,
+    "Activity": "Fire Rituals",
+    "Activity (Tibetan)": "ཐབ་ལྷ།",
+    "Status/Variation": "Extremely Auspicious",
+    "Status (Tibetan)": "ཤིན་ཏུ་བཟང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Avoid",
+    "Status (Tibetan)": "ངན།",
+    "Symbol": "❌",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": 7.0,
+    "Activity": "Torma Offering ",
+    "Activity (Tibetan)": "གཏོར་མ་འཕེན་ཕྱོགས།",
+    "Status/Variation": "Southwest",
+    "Status (Tibetan)": "ལྷོ་ནུབ།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "North",
+    "Status (Tibetan)": "བྱང་།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Northeast",
+    "Status (Tibetan)": "བྱང་ཤར།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "Southeast",
+    "Status (Tibetan)": "ཤར་ལྷོ།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "West",
+    "Status (Tibetan)": "ནུབ།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "East",
+    "Status (Tibetan)": "ཤར།",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": 8.0,
+    "Activity": "Empty Vase (Bumtong)",
+    "Activity (Tibetan)": "བུམ་སྟོང།",
+    "Status/Variation": "West",
+    "Status (Tibetan)": "ནུབ་ཕྱོགས་བུམ་སྟོང།",
+    "Symbol": "🔴",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "North",
+    "Status (Tibetan)": "བྱང་ཕྱོགས་བུམ་སྟོང།",
+    "Symbol": "🔴",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "East",
+    "Status (Tibetan)": "ལྷོ་ཕྱོགས་བུམ་སྟོང།",
+    "Symbol": "🔴",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "South",
+    "Status (Tibetan)": "ལྷོ་ཕྱོགས་བུམ་སྟོང།",
+    "Symbol": "🔴",
+    "Color": "Light Red",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": null,
+    "Status (Tibetan)": "ཕྱོགས་མེད་པ།",
+    "Symbol": "⚪",
+    "Color": "Light Gray",
+    "Image": "Yes"
+  },
+  {
+    "#": 9.0,
+    "Activity": "Auspicious Time Periods",
+    "Activity (Tibetan)": "བཟང་པོའི་དུས་མཚམས།",
+    "Status/Variation": "10:00 AM · 6:00 PM · 1:00 AM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "7:00 AM · 2:00 PM · 11:00 PM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "11:00 AM · 9:00 PM · 4:00 AM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "8:00 AM · 3:00 PM · 7:00 PM · 2:00 AM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "5:00 AM · 12:00 PM · 5:00 PM · 12:00 AM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "9:00 AM · 4:00 PM · 10:00 PM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  },
+  {
+    "#": NaN,
+    "Activity": null,
+    "Activity (Tibetan)": null,
+    "Status/Variation": "6:00 AM · 1:00 PM · 8:00 PM · 3:00 AM",
+    "Status (Tibetan)": "same",
+    "Symbol": "✅",
+    "Color": "Dark Green",
+    "Image": "Yes"
+  }
+]

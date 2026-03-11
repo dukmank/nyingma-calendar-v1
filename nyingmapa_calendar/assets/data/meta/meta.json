@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-03-04T07:31:18.453803Z",
+  "input_file": "Tibetan_Calendar_2026_Complete_Final.xlsx",
+  "years": [
+    2026,
+    2027
+  ],
+  "calendar_files": [
+    "calendar/2026/2026_02.json",
+    "calendar/2026/2026_03.json",
+    "calendar/2026/2026_04.json",
+    "calendar/2026/2026_05.json",
+    "calendar/2026/2026_06.json",
+    "calendar/2026/2026_07.json",
+    "calendar/2026/2026_08.json",
+    "calendar/2026/2026_09.json",
+    "calendar/2026/2026_10.json",
+    "calendar/2026/2026_11.json",
+    "calendar/2026/2026_12.json",
+    "calendar/2027/2027_01.json",
+    "calendar/2027/2027_02.json"
+  ],
+  "counts": {
+    "days": 356,
+    "events": 102
+  },
+  "paths": {
+    "calendar_root": "calendar",
+    "events_master": "events/events_master.json",
+    "astrology_reference": "astrology/reference.json",
+    "index_root": "index"
+  }
+}

@@ -1,0 +1,33 @@
+# Build artifacts (auto-generated, not source code)
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.pub-cache/
+frontend/windows/flutter/ephemeral/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SQLite database
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+build/
+.dart_tool/

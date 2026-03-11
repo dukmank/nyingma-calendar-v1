@@ -1,0 +1,51 @@
+name: nyingmapa_calendar
+description: "Nyingma Buddhist Calendar - Ancient Wisdom, Modern Life"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.1.0
+  intl: ^0.19.0
+  shared_preferences: ^2.2.0
+  google_fonts: ^8.0.2
+  flutter_local_notifications: ^17.0.0
+  flutter_riverpod: ^2.5.1
+  cached_network_image: ^3.3.0
+  table_calendar: ^3.0.9
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.9
+  url_launcher: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/calendar/2026/
+    - assets/data/calendar/2027/
+    - assets/data/events/
+    - assets/data/raw/
+    - assets/data/astrology/
+    - assets/data/index/
+    - assets/data/meta/
+    - assets/images/others/
+    - assets/images/Auspicious days/
+    - assets/images/Birthday/
+    - assets/images/Events 3/
+    - assets/images/events 2/
+    - assets/images/Guru Rinpoche 12 manefistation/
+    - assets/images/astrology/
+    - assets/images/parinirvana/
+    - assets/images/others/normal day images/
+    - assets/images/astrology/10 daily restriction activities/
+    - assets/images/header_images/
