@@ -31,3 +31,12 @@ desktop.ini
 
 build/
 .dart_tool/
+
+# Flutter
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/ios/Pods
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/App.framework
